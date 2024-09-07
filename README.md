@@ -78,3 +78,6 @@ Encrypter
 Pasted into our shellcode runner with decryption method 
 ![image](https://github.com/user-attachments/assets/249f7db3-9c8f-4422-acce-cfa61b8157fb)
 
+Not very good in 2024
+![image](https://github.com/user-attachments/assets/861b881d-bafc-430f-a3ec-acf3bf017523)
+
